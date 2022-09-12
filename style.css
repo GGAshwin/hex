@@ -43,6 +43,7 @@ li {
   font-family: sans-serif;
   text-decoration: none;
   color: black;
+  transition: 0.6s ease;
 }
 
 .container {
@@ -70,7 +71,6 @@ button:hover {
 
 a:hover {
   color: rgb(255, 94, 94);
-  transition: 0.6s ease;
 }
 
 #color {
