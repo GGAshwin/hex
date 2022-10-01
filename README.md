@@ -7,7 +7,7 @@ A simple color randomizer project
 ---
 ## Demo
 
-`localhost:3000/users`
+`https://hex-rouge.vercel.app/`
 
 ---
 
